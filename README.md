@@ -17,7 +17,9 @@
 </div>
 
 <p align="center">
-    <a href="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS"><img alt="jezzrel aladdin sambaan github" src="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS"></a>
+    <a href="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS">
+        <img alt="jas github" src="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS">
+    </a>
 </p>
  
 <h5 align="center">
@@ -51,6 +53,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&&show_icons=true&theme=synthwave"/>
 </a>
+<br />
 <br />
 <br />
 
