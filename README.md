@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS"><img alt="jezzrel aladdin sambaan github" src="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS"></a>
- </p>
+</p>
  
 <h5 align="center">
     <i>⚡️ "Good ideas have no borders." -Alexey Pajitnov ⚡️</i>
