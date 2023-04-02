@@ -31,15 +31,16 @@
     <h3> I'm 28 years old developer from Philippines.</h3>
 </p>
 
-    - 🥀 Learning Web Development
-      
-    - 🔭 Space studies, the last expedition for mankind 🛸
+- 🥀 Learning Web Development
+  
+- 🔭 Space studies, the last expedition for mankind 🛸
 
-    - I do penspinning and loves music :heart:
+- I do penspinning and loves music :heart:
 
-    - All About living life at its best.
+- All About living life at its best.
 
-    - 💬 Connect? lets get social 👉🏼[Facebook](https://www.facebook.com/zHY7Ne)
+- 💬 Connect? lets get social 👉🏼[Facebook](https://www.facebook.com/zHY7Ne)
+
 <br />
 
 <!-- Stats and Skills section -->
