@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Jezzrel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://jezzrey.ml">Jezzrel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
@@ -54,7 +54,7 @@
     <img  src="https://gh-stats-card.cyclic.app/api/dotSIS"/>
   </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&&show_icons=true&theme=codeSTACKr"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&&show_icons=true&theme=synthwave"/>
   </a>
 
 </p>
