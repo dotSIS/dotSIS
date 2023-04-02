@@ -54,8 +54,6 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&&show_icons=true&theme=synthwave"/>
 </a>
 <br />
-<br />
-<br />
 
 </p>
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" />
@@ -78,13 +76,11 @@
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-<br />
 
 <!-- What section -->
  ### - What i do
 
 <p align="center">
-    <br />
     <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
 </p>
 
