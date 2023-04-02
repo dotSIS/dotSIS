@@ -78,8 +78,8 @@
  ### - What i do
 
 <p align="center">
-    <!-- <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif"/> -->
-    <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif"/>
+    <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif"/>
+    <!-- <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif"/> -->
 </p>
 
 <!-- Footer section -->
