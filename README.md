@@ -67,15 +67,6 @@
     <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=c,java,html,css,js,nodejs,vue"/></a>
     <br />
     <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=python,django,php,mysql,mongodb,bash,linux"/></a>
-    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 <!-- What section -->
