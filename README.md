@@ -80,13 +80,11 @@
 </p>
 <br />
 <br />
-<br />
 
 <!-- What section -->
  ### - What i do
 
 <p align="center">
-    <br />
     <br />
     <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
 </p>
