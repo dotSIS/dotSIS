@@ -28,7 +28,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif" />
 <p align="center">
   <h3> I'm 28 years old developer from Philippines.</h3>
 </p>
@@ -58,7 +58,7 @@
   </a>
 
 </p>
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" />
 
 <br />
 
