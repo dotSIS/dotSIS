@@ -84,7 +84,7 @@
 <br />
 
 <p align="center">
-    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+    <img src="https://media.giphy.com/media/XDd5b7NUbS1C1PMjUl/giphy.gif" />
 </p>
 <br />   
 
