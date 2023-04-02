@@ -84,7 +84,7 @@
 <br />
 
 <p align="center">
-    <img src="https://media.giphy.com/media/XDd5b7NUbS1C1PMjUl/giphy.gif" />
+    <img src="https://media.giphy.com/media/XDd5b7NUbS1C1PMjUl/giphy.gif"/>
 </p>
 <br />   
 
@@ -92,5 +92,5 @@
 <h1 align='center'>⚡️ <i>Tugsngiao!</i> ⚡️</h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
 </p>
