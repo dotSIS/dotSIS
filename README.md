@@ -1,5 +1,5 @@
 <!-- Passenger Card section -->
-<!-- <a href="https://github.com/jxmked/github-stats-card"><img src="https://gh-stats-card.cyclic.app/api/dotSIS"/></a> -->
+<a href="https://github.com/jxmked/github-stats-card"><img src="https://gh-stats-card.cyclic.app/api/dotSIS"/></a>
 
 <!-- Greetings section -->
 <div align="center">
