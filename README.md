@@ -68,6 +68,11 @@
     <br />
     <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=python,django,php,mysql,mongodb,bash,linux"/></a>
 </p>
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <!-- What section -->
  ### - What i do
