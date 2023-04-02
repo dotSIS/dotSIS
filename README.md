@@ -40,7 +40,6 @@
 - Former Uzzap Chatbot developer :heart:
 
 - 💬 Connect? lets get social 👉🏼[Facebook](https://www.facebook.com/zHY7Ne)
-
 <br />
 
 <!-- Stats and Skills section -->
@@ -51,45 +50,44 @@
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&&show_icons=true&theme=synthwave"/>
-  </a>
+</a>
+<br />
+<br />
 
 </p>
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" />
 <br />
 
+<!-- Languages section -->
 ### - Languages and Tools...
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-
-
 <br />
 <br />
+<br />
 
+<!-- What section -->
  ### - What i do
-
-
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
+    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+</p>
+<br />   
 
+<!-- Footer section -->
 <h1 align='center'>⚡️ <i>Tugsngiao!</i> ⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
