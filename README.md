@@ -79,8 +79,6 @@
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 <br />
-<br />
-<br />
 
 <!-- What section -->
  ### - What i do
