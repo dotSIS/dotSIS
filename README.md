@@ -78,8 +78,7 @@
  ### - What i do
 
 <p align="center">
-    <!-- <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/> -->
-    <img src="https://gfycat.com/ifr/BackWellmadeGopher"/>
+    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
 </p>
 
 <!-- Footer section -->
