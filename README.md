@@ -33,11 +33,11 @@
 
 - 🥀 Learning Web Development
   
-- 🔭 Space studies, the last expedition for mankind 🛸
+- 🔭 Space studies, penspinning, music 🛸
 
-- I do penspinning and loves music :heart:
+- Former Symbian App developer :heart:
 
-- All About living life at its best.
+- Former Uzzap Chatbot developer :heart:
 
 - 💬 Connect? lets get social 👉🏼[Facebook](https://www.facebook.com/zHY7Ne)
 
