@@ -19,7 +19,7 @@
 
 
 <p align="center">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS"> </a>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS"> <img alt="jezzrel aladdin sambaan github" src="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS"> </a>
  </p>
  
  <h5 align="center">
@@ -50,8 +50,11 @@
 <!--  -->
 
 <p align="center" >
+<a href="https://github.com/jxmked/github-stats-card"> 
+    <img  src="https://gh-stats-card.cyclic.app/api/dotSIS"/>
+  </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&&show_icons=true&theme=codeSTACKr"/>
   </a>
 
 </p>
