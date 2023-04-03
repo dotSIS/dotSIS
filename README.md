@@ -54,6 +54,8 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&&show_icons=true&theme=synthwave"/>
 </a>
 <br />
+<br />
+<br />
 
 </p>
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" />
@@ -67,9 +69,6 @@
     <br />
     <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=python,django,php,mysql,mongodb,bash,linux"/></a>
 </p>
-<br />
-<br />
-<br />
 <br />
 <br />
 
