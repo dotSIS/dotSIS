@@ -64,6 +64,7 @@
 ### - Languages and Tools...
 
 <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotSIS&layout=compact"/></a>
     <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=c,java,html,css,js,nodejs,vue"/></a>
     <br />
     <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=python,django,php,mysql,mongodb,bash,linux"/></a>
