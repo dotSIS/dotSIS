@@ -7,10 +7,12 @@
     <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align='center'>
-    <a href="https://www.linkedin.com/in/jezzrelaladdinsambaan/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/zHY7Ne"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
-</p>
+<div class="info">
+    <p align='center'>
+        <a href="https://www.linkedin.com/in/jezzrelaladdinsambaan/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+        <a href="https://www.facebook.com/zHY7Ne"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+    </p>
+</div>
 
 <div align="center">
     <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Jezzrel Aladdin S. Sambaan | 💻 Developer | Philippines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
