@@ -53,7 +53,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&&show_icons=true&theme=synthwave"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&show_icons=truecount_private=true&include_all_commits=true&&theme=synthwave"/>
 </a>
 <br />
 <br />
