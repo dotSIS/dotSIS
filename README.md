@@ -53,7 +53,10 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dotSIS&theme=radical"/>
 </a>
 <br />
 <br />
@@ -66,7 +69,7 @@
 ### - Languages and Tools...
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotSIS&layout=compact"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotSIS&layout=compact&theme=radical"/></a>
     <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=c,java,html,css,js,nodejs,vue"/></a>
     <br />
     <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=python,django,php,mysql,mongodb,bash,linux"/></a>
@@ -76,7 +79,7 @@
  ### - What i do
 
 <p align="center">
-    <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif"/>
+    <img src="https://user-images.githubusercontent.com/55179845/154410218-04ca538f-942c-4240-b36b-ec6e3cf81396.gif"/>
 </p>
 
 <!-- Footer section -->
