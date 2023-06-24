@@ -19,10 +19,7 @@
 </div>
 
 <p align="center">
-    <a href="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS">
-        <img alt="jas github" src="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS">
-    </a>
-    <img alt="jas github" src=https://komarev.com/ghpvc/?username=dotSIS&color=blueviolet&label=Profile+Views">
+    <img alt="jas github" src="https://komarev.com/ghpvc/?username=dotSIS&color=blueviolet&label=Profile+Views">
 </p>
  
 <h5 align="center">
