@@ -18,13 +18,13 @@
     <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Jezzrel Aladdin S. Sambaan | 💻 Developer | Philippines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-<p align="center">
-    <img alt="jas github" src="https://komarev.com/ghpvc/?username=dotSIS&color=blueviolet&label=Profile+Views">
-</p>
- 
 <h5 align="center">
     <i>⚡️ "Good ideas have no borders." -Alexey Pajitnov ⚡️</i>
 </h5>
+
+<p align="center">
+    <img alt="jas github" src="https://komarev.com/ghpvc/?username=dotSIS&color=blueviolet&label=Profile+Views">
+</p>
 <br />
  
  <!-- Background section -->
