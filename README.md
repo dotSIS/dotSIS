@@ -22,6 +22,7 @@
     <a href="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS">
         <img alt="jas github" src="https://visitor-badge.glitch.me/badge?page_id=dotSIS.dotSIS">
     </a>
+    ![](https://komarev.com/ghpvc/?username=dotSIS&color=blueviolet&label=Profile+Views)
 </p>
  
 <h5 align="center">
