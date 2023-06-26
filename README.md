@@ -74,13 +74,6 @@
     <br />
     <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=mongodb,md,bash,vim,lua,linux"/></a>
 </p>
-<p align="right">
-    <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,vue"/></a>
-    <br />
-    <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=c,java,python,django,php,mysql"/></a>
-    <br />
-    <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=mongodb,md,bash,vim,lua,linux"/></a>
-</p> 
 
 <!-- What section -->
  ### - What i do
