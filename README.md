@@ -61,7 +61,6 @@
 <br />
 
 </p>
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" />
 
 <!-- Languages section -->
 ### - Languages and Tools...
