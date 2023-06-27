@@ -45,9 +45,7 @@
 <br />
 
 <!-- Stats and Skills section -->
-<p align="center">
-    <h4> Developer | Linux User </h4>
-</p>
+### - Developer | Linux User
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
