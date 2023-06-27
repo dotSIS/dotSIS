@@ -79,12 +79,12 @@
  ### - What i do
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/55179845/154410218-04ca538f-942c-4240-b36b-ec6e3cf81396.gif"/>
+    <img src="./media/rice.gif"/>
 </p>
 
 <!-- Footer section -->
 <h1 align='center'>⚡️ <i>Tugsngiao!</i> ⚡️</h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
+    <img src="./media/bottom.svg" alt="Github Stats"/>
 </p>
