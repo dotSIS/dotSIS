@@ -74,7 +74,7 @@
 </p>
 
 <!-- What section -->
- ### - What i do
+ ### - What I do
 
 <p align="center">
     <img src="./media/rice.gif"/>
