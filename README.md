@@ -4,7 +4,7 @@
         <img src="https://gh-stats-card.cyclic.app/api/dotSIS"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=dotSIS&row=3&column=3&no-bg=true&no-frame=true&theme=nord"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=dotSIS&row=3&column=3&no-bg=true&no-frame=true&margin-w=50&theme=nord"/>
     </a>
 </p>
 
