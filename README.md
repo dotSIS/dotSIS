@@ -1,6 +1,12 @@
 <!-- Passenger Card section -->
-<a href="https://github.com/jxmked/github-stats-card"><img src="https://gh-stats-card.cyclic.app/api/dotSIS"/></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dotSIS&row=3&column=3&no-bg=true&no-frame=true&theme=nord"/></a>
+<p align="center">
+    <a href="https://github.com/jxmked/github-stats-card">
+        <img src="https://gh-stats-card.cyclic.app/api/dotSIS"/>
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=dotSIS&row=3&column=3&no-bg=true&no-frame=true&theme=nord"/>
+    </a>
+</p>
 
 <!-- Greetings section -->
 <div align="center">
@@ -49,12 +55,12 @@
 ### - Developer | Linux User
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dotSIS&theme=radical"/>
-</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img  src="https://github-readme-stats.vercel.app/api?username=dotSIS&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dotSIS&theme=radical"/>
+    </a>
 <br />
 <br />
 <br />
