@@ -1,6 +1,6 @@
 <!-- Passenger Card section -->
 <a href="https://github.com/jxmked/github-stats-card"><img src="https://gh-stats-card.cyclic.app/api/dotSIS"/></a>
-<img src="https://github-profile-trophy.vercel.app/?username=dotSIS"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=dotSIS"/>
 
 <!-- Greetings section -->
 <div align="center">
