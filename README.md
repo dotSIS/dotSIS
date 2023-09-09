@@ -51,7 +51,7 @@
 <br />
 
 <!-- Stats and Skills section -->
-### - Developer | Linux User
+### - Developer | Linux Enthusiast
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
