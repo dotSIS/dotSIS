@@ -47,7 +47,7 @@
 
 - Former Uzzap Chatbot developer :heart:
 
-- 💬 Connect? lets get social 👉🏼[Facebook](https://www.facebook.com/zHY7Ne)
+- 💬 Connect? 👉🏼[Facebook](https://www.facebook.com/zHY7Ne)
 <br />
 
 <!-- Stats and Skills section -->
