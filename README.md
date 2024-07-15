@@ -72,11 +72,11 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotSIS&layout=compact&theme=radical"/></a>
     <br />
-    <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=html,css,js,ts,nodejs,vue"/></a>
+    <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue"/></a>
     <br />
-    <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=c,java,python,django,php,mysql"/></a>
+    <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skillicons.dev/icons?i=c,java,python,django,php,mysql"/></a>
     <br />
-    <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skills.thijs.gg/icons?i=mongodb,md,bash,neovim,lua,linux"/></a>
+    <a href="https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/"><img src="https://skillicons.dev/icons?i=mongodb,md,bash,neovim,lua,linux"/></a>
 </p>
 
 <!-- What section -->
