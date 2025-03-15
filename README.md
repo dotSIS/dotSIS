@@ -36,7 +36,7 @@
  <!-- Background section -->
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif" />
 <p align="center">
-    <h3> I'm 29 years old developer from Philippines.</h3>
+    <h3> I'm 30 years old developer from Philippines.</h3>
 </p>
 
 - 🥀 Learning Web Development
